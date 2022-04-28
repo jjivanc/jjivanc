@@ -2,11 +2,11 @@
 
 
 <div>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=jjivanc&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjivanc&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjivanc&layout=compact&theme=radical"/>
 </div>
-<div>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjivanc&layout=compact&theme=radical"/>
-  <img height="250em" src="https://acegif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif"/>
+<div> 
+  <img height="180em" src="https://acegif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif"/>
  </div>
  
  ##
