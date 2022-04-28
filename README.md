@@ -1,16 +1,15 @@
-### Hi there 👋
+### Era Para Aparecer Alguma Coisa??
 
-<!--
-**jjivanc/jjivanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=jjivanc&show_icons=true&theme=radical" />
+</div>
+<div>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjivanc&layout=compact&theme=radical"/>
+  <img height="250em" src="https://acegif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif"/>
+ </div>
+ 
+ ##
+ <div>
+  <a href="https://www.linkedin.com/in/jjivanc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ </div>
