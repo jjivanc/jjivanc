@@ -5,11 +5,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjivanc&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjivanc&layout=compact&theme=radical"/>
 </div>
+
+___
+
+## 🛡 Badges
+
+<img height="180em" alt="BADGE ONE" src="https://github.com/jjivanc/jjivanc/blob/main/img/Badges/cms_files_10224_1644515575BADGE_2.png?raw=true">
+
+___
+
 <div> 
-  <img height="180em" src="https://acegif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif"/>
+  <img height="180em" src="https://github.com/jjivanc/jjivanc/blob/main/img/gif/pepefrg-4.gif?raw=true"/>
  </div>
- 
- ##
- <div>
-  <a href="https://www.linkedin.com/in/jjivanc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- </div>
+
+##
+
+<div>
+ <a href="https://www.linkedin.com/in/jjivanc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
