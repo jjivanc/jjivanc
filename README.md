@@ -9,9 +9,11 @@
 ___
 
 ## 🛡 Badges
-
-<img height="180em" alt="BADGE ONE" src="https://github.com/jjivanc/jjivanc/blob/main/img/Badges/cms_files_10224_1644515575BADGE_2.png?raw=true">
-
+<div>
+  <img height="180em" alt="BADGE ONE" src="https://github.com/jjivanc/jjivanc/blob/main/img/Badges/cms_files_10224_1644515575BADGE_2.png">
+  <img height="180em" alt="BADGE ONE" src="https://github.com/jjivanc/jjivanc/blob/main/img/Badges/cms_files_10224_1644516322badge.png">
+  <img height="180em" alt="BADGE ONE" src="https://github.com/jjivanc/jjivanc/blob/main/img/Badges/cms_files_10224_1650486791insignia.png">
+</div>
 ___
 
 <div> 
